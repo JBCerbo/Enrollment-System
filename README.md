@@ -1,0 +1,1 @@
+This system was developed in 2022 using Java on the NetBeans platform, integrated with an SQL database. It includes dedicated portals for students, teachers, and administrators—each with specific privileges. Students can enroll and view grades, teachers can manage their classes, and administrators can configure and maintain the overall system, etc.
